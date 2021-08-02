@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "ES2015",
+    "module": "commonjs",
+    "allowJs": true,
+    "outDir": "./dist/",
+    "downlevelIteration": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": false,
+    "lib": [
+      "es2019",
+      "dom"
+    ]
+  }
+}
